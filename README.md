@@ -9,6 +9,6 @@ This is the Documentation and Status Tracking for the Open Health Natural Langua
 - [PresidioDeidentificationforOHNLPTK](https://www.github.com/OHNLP/presidiodeidentificationforohnlptk): Wraps Microsoft's [Presidio SDK](https://microsoft.github.io/presidio/) to allow for De-identification and Synthetic Replacement of Clinical Text as part of Backbone Pipelines using any trained Huggingface-hub-format-compatible PII recognizer BERT-based model
 
 ## OHNLPTK Components (for Developers)
-- [backbone/api]([https://www.github.com/OHNLP/backbone-xlang-python](https://github.com/OHNLP/Backbone/tree/master/API)): Java API for Backbone. Use this as a basis for implementing your own java-based Backbone pipeline components. Also contains code for java-python bridge implementation to allow for mixing languages amongst different components
+- [backbone/api](https://github.com/OHNLP/Backbone/tree/master/API): Java API for Backbone. Use this as a basis for implementing your own java-based Backbone pipeline components. Also contains code for java-python bridge implementation to allow for mixing languages amongst different components
 - [backbone-xlang-python](https://www.github.com/OHNLP/backbone-xlang-python): Python API for Backbone. Use this as a basis for implementing your own python-based Backbone pipeline components
 - [ohnlptk-ml](https://www.github.com/OHNLP/ohnlptk-ml): Various machine learning API extensions for Backbone. Extend this to implement federated learning on BYO pytorch models using FedAVG as part of Backbone pipelines
