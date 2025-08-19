@@ -1,5 +1,5 @@
 # The Open Health Natural Language Processing Toolkit (OHNLPTK)
-This is the Documentation and Status Tracking for the Open Health Natural Language Processing Toolkit Repository. Please refer to individual component repositories for relevant source code (linked below)
+This is the Documentation and Status Tracking Repository for the Open Health Natural Language Processing Toolkit. Please refer to individual component repositories for relevant source code (linked below)
 
 ## OHNLPTK Components (for End Users)
 - [Backbone](https://www.github.com/OHNLP/Backbone): OHNLPTK's pipeline execution engine based on [Apache Beam](https://beam.apache.org/) allowing for JSON-configurable, modular, plug-and-play execution of data transformation pipelines at scale (including support for popular frameworks such as Apache Spark, Apache Flink, GCP Dataflow, and Azure Databricks). Includes built in adapters for a variety of data sources
