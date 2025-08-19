@@ -13,5 +13,9 @@ This is the Documentation and Status Tracking Repository for the Open Health Nat
 - [backbone-xlang-python](https://www.github.com/OHNLP/backbone-xlang-python): Python API for Backbone. Use this as a basis for implementing your own python-based Backbone pipeline components
 - [ohnlptk-ml](https://www.github.com/OHNLP/ohnlptk-ml): Various machine learning API extensions for Backbone. Extend this to implement federated learning on BYO pytorch models using FedAVG as part of Backbone pipelines
 
+## Installation and Deployment
+- [Setup Script](https://www.github.com/OHNLP/OHNLPTK_SETUP): Shell Script that will install all the configuration and base scripts for both local and cloud deployments. Requires internet access for component download and update checks.
+- [Docker Images](https://www.github.com/OHNLP/OHNLPTK_Docker_Images): Docker Images for Various OHNLP Toolkit Pipelines. Intended for local (non-cloud) evaluation installs on small datasets only on systems that do not have internet access/secure environments. 
+
 ## Legacy
 - [Demonstration Website](https://github.com/OHNLP/ohnlptk): Contains a (now partially defunct) demonstration website for the OHNLP toolkit. This repository is not kept up to date and is not compatible with the latest OHNLP Toolkit features. A replacement demonstration website/code rewrite is in progress that supports more generalized features beyond N3C-related phenotypes.
